@@ -11,9 +11,8 @@ and is available for purchaase on
 ## Postcardware download
 
 I make this book (and its solutions manual) available as postcardware. 
-
 If you download from this site, send no money; instead, 
-please send me a postcard from your home town to me at 
+please send me a postcard from your home town to me at:
 
 Ed Scheinerman, Department of Applied Mathematics and Statistics, Johns Hopkins University, Baltimore, MD 21218 USA
 
