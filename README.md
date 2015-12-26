@@ -5,7 +5,7 @@ This is an undergraduate textbook on dynamical systems, chaos, and fractals orig
 ## Purchase the paperback version
 
 The book is currently published in paperback by [Dover](http://store.doverpublications.com/0486485943.html)
-and is available for purchaase on 
+and is available for purchase on 
 [Amazon](http://www.amazon.com/Invitation-Dynamical-Systems-Dover-Mathematics/dp/0486485943/ref=sr_1_7?ie=UTF8&qid=1328557406&sr=8-7).
 
 ## Postcardware download
