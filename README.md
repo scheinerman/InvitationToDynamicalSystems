@@ -18,8 +18,6 @@ Ed Scheinerman, Department of Applied Mathematics and Statistics, Johns Hopkins 
 
 Or send a photo of your home town (or your university, or yourself, or your dog, or ...) to me by [email](mailto:ers@jhu.edu).
 
-I hope you find this useful.
-
 ## Matlab code might not work
 
 Please note that the book includes Matlab programs that were written a long time ago and are likely not compatible with 
