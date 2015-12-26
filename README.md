@@ -1,6 +1,6 @@
 # Invitation To Dynamical Systems
 
-This is an undergraduate textbook on dynamical systems, chaos, and fractals originally published by Prentice-Hall. The book includes Matlab programs that were developed many years ago; these programs likely will not run on the current Matlab release without some modification.
+This is an undergraduate textbook on dynamical systems, chaos, and fractals originally published by Prentice-Hall. 
 
 ## Purchase the paperback version
 
