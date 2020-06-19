@@ -21,4 +21,5 @@ Or send a photo of your home town (or your university, or yourself, or your dog,
 ## Matlab code might not work
 
 Please note that the book includes Matlab programs that were written a long time ago and are likely not compatible with 
-the current version of Matlab. You'll need to update.
+the current version of Matlab. You'll need to update. A copy of the MATLAB programs I wrote for the book can be found in the 
+MATLAB folder.
