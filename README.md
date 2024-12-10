@@ -14,7 +14,7 @@ I make this book (and its solutions manual) available as postcardware.
 If you download from this site, send no money; instead, 
 please send me a postcard from your home town to me at:
 
-Ed Scheinerman, Department of Applied Mathematics and Statistics, Johns Hopkins University, Baltimore, MD 21218 USA
+Ed Scheinerman, Office of the Dean, Whiting School of Engineering, Johns Hopkins University, Baltimore, MD 21218 USA
 
 Or send a photo of your home town (or your university, or yourself, or your dog, or ...) to me by [email](mailto:ers@jhu.edu).
 
